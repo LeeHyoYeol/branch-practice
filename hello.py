@@ -1,5 +1,5 @@
-for i in range(1, 10+1):
-    if i > 5 :
-        print("GOOD")
+for i in range(1, 20+1):
+    if i % 5 == 0 :
+        print("year")
     else :
         print(i)
